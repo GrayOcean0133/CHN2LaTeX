@@ -1,7 +1,7 @@
 # CHN2LaTeX
 利用Qwen 2.5大模型，解决中文到公式录入繁琐问题。
 
-upload:2025/06/13
+UPDATE:2025/06/13
   解决了UI的问题，基于QtPy,QtPy好贵看看有没有教育版。
   
 TO DO:
