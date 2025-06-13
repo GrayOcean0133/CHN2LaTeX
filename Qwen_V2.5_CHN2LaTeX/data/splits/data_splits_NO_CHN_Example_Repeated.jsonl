@@ -1,0 +1,46 @@
+{"LaTeX": "t \\in (0,1)", "CHINESE": null}
+{"LaTeX": "-th derivative of ", "CHINESE": null}
+{"LaTeX": "x \\mapsto \\psi(x,t)", "CHINESE": null}
+{"LaTeX": "(1-t) \\mu_t", "CHINESE": null}
+{"LaTeX": "h\\sim\\varepsilon^2", "CHINESE": null}
+{"LaTeX": "\\varepsilon", "CHINESE": null}
+{"LaTeX": "\\Omega\\subset \\mathbb{R}^d", "CHINESE": null}
+{"LaTeX": "|\\lambda_k(\\Omega)-\\lambda_k(\\Theta)|", "CHINESE": null}
+{"LaTeX": "C(d,k)(\\lambda_2(\\Omega)-\\lambda_2(\\Theta))^\\alpha", "CHINESE": null}
+{"LaTeX": "\\alpha =\\frac{1}{d+1}", "CHINESE": null}
+{"LaTeX": "\\lambda_k(\\Omega)\\geq \\lambda_k(\\Theta)", "CHINESE": null}
+{"LaTeX": "\\mathcal{R}", "CHINESE": null}
+{"LaTeX": "\\mathcal{R}", "CHINESE": null}
+{"LaTeX": "H^s(\\mathbb{T})", "CHINESE": null}
+{"LaTeX": "s > -\\frac12", "CHINESE": null}
+{"LaTeX": "H^s(\\mathbb{T})", "CHINESE": null}
+{"LaTeX": "\\pi_3(\\mathbb S^2)", "CHINESE": null}
+{"LaTeX": "\\pi_3(\\mathbb S^3)", "CHINESE": null}
+{"LaTeX": "\\pi_{3}(\\mathbb S^{2})", "CHINESE": null}
+{"LaTeX": "W^{s,\\frac{3}{s}}", "CHINESE": null}
+{"LaTeX": "\\mathscr E_\\lambda", "CHINESE": null}
+{"LaTeX": "\\lambda \\in \\mathbb{R}", "CHINESE": null}
+{"LaTeX": "f(t)=|t|^{q-2}t", "CHINESE": null}
+{"LaTeX": "2<q<\\frac{10}{3}", "CHINESE": null}
+{"LaTeX": "\\frac{10}{3}<q<6", "CHINESE": null}
+{"LaTeX": "f(t)=\\mu|t|^{q-2}t+|t|^{p-2}t", "CHINESE": null}
+{"LaTeX": "2<q<\\frac{10}{3}<p<6", "CHINESE": null}
+{"LaTeX": "p:[0,T]\\to(1,\\infty)", "CHINESE": null}
+{"LaTeX": "g(x) \\to +\\infty", "CHINESE": null}
+{"LaTeX": "\\frac{|Q|}{M} < \\frac{\\sqrt{15}}{4}", "CHINESE": null}
+{"LaTeX": "\\mathcal{O}", "CHINESE": null}
+{"LaTeX": "\\mathcal{O}", "CHINESE": null}
+{"LaTeX": "\\mathbb{H}^{-1}(\\mathcal{O})+\\mathbb{W}^{-1,\\frac{4}{3}}(\\mathcal{O})", "CHINESE": null}
+{"LaTeX": "\\mathbb{L}^{2}(\\mathcal{O})", "CHINESE": null}
+{"LaTeX": "\\mathbb{H}^1(\\mathcal{O}) \\hookrightarrow\\mathbb{H}^2(\\mathcal{O})", "CHINESE": null}
+{"LaTeX": "d \\in \\{3,4,5,\\ldots\\}", "CHINESE": null}
+{"LaTeX": "\\Omega \\subset \\Ri^d", "CHINESE": null}
+{"LaTeX": "Q = \\Omega \\times (0,\\infty)", "CHINESE": null}
+{"LaTeX": "p \\in C(\\overline{Q})", "CHINESE": null}
+{"LaTeX": "0 \\ne u_0 \\in W^{1,2}_0(\\Omega)", "CHINESE": null}
+{"LaTeX": "\\mathcal{O}(\\varepsilon)", "CHINESE": null}
+{"LaTeX": "\\mathbb{R}^d", "CHINESE": null}
+{"LaTeX": "\\mathcal{O}(\\varepsilon^2)", "CHINESE": null}
+{"LaTeX": "\\mathbb{R}^3", "CHINESE": null}
+{"LaTeX": "\\mathcal{O}(\\varepsilon)", "CHINESE": null}
+{"LaTeX": "\\Gamma_1, \\ldots, \\Gamma_M", "CHINESE": null}

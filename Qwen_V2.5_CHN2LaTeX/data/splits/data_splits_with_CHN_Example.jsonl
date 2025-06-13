@@ -1,0 +1,10 @@
+{"LaTeX": "t \\in (0,1)", "CHINESE": "t属于0到1的开区间"}
+{"LaTeX": "-th derivative of ", "CHINESE": "某数的某阶导数"}
+{"LaTeX": "x \\mapsto \\psi(x,t)", "CHINESE": "x 映射为函数 ψ(x,t) 的值"}
+{"LaTeX": "(1-t) \\mu_t", "CHINESE": "1减t的差数乘μt"}
+{"LaTeX": "h\\sim\\varepsilon^2", "CHINESE": "ε向量的2次方"}
+{"LaTeX": "\\varepsilon", "CHINESE": "ε的向量"}
+{"LaTeX": "\\Omega\\subset \\mathbb{R}^d", "CHINESE": "Ω是d维欧几里得空间Rd次幂的子集"}
+{"LaTeX": "|\\lambda_k(\\Omega)-\\lambda_k(\\Theta)|", "CHINESE": "集合Ω的第k特征值与集合θ的第k特征值差的绝对值"}
+{"LaTeX": "C(d,k)(\\lambda_2(\\Omega)-\\lambda_2(\\Theta))^\\alpha", "CHINESE": "组合数 C(d,k) 乘以集合 Ω 的第二特征值与集合 Θ 的第二特征值之差的 α 次幂"}
+{"LaTeX": "\\alpha =\\frac{1}{d+1}", "CHINESE": "α等于除以1除以d+1"}
